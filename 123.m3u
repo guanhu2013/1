@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://xhdwc.tk/tvlive.txt
+#EXT-X-SUB-URL https://raw.githubusercontent.com/guanhu2013/1/main/123.m3u
 
 #EXTINF:-1 group-title="综合",CCTV13新闻
 http://60.213.92.38:9901/tsfile/live/0013_1.m3u8
